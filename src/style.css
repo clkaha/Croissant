@@ -1,7 +1,11 @@
 body {
+	background: #facf5a;
 	text-align: center;
 }
-
+a {
+	color: #005bab;
+	font-weight: 600;
+}
 #main {
 	margin: 20px;
 }
